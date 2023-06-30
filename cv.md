@@ -6,15 +6,15 @@
 ### Contact:
 
 **E-mail:** mikhail.kenko@gmail.com<br>
-[LinkedIn](https://www.linkedin.com/in/mikhail-kenko-93178a42/)<br>
-[Discord](.mike_ken)
+**LinkedIn:**[LinkedIn](https://www.linkedin.com/in/mikhail-kenko-93178a42/)<br>
+**Discord:**[Discord](.mike_ken)
 
 ---
 
-### Briefly About Myself:
+### About Myself:
 
-Newbie with a passion for development. I am studying web technologies together with the Python language . 
-I’m interested in Web Development because this occupation provides endless possibilities for professional growth,
+Newbie with a passion for development. I am studying web technologies together with the Python language. 
+I’m interested in Web Development because this occupation provides endless possibilities for professional growth.
 
 I believe, that my hardworking, responsible and 
 ability to learn s will lead me through this path of becoming a professional.<br>
@@ -71,6 +71,11 @@ function palindrome(world){
     return true;
 }
 ```
+---
+
+### Experience:
+- Junior backend developer at ITEC, Minsk (October 2022 – Present)
+
 ---
 
 ### Courses:
